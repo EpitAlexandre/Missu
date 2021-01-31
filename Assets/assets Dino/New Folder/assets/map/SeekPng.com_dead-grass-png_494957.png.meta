@@ -1,0 +1,4364 @@
+fileFormatVersion: 2
+guid: df264942c3856e64ca56e97a51094926
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8235141638687250846
+    second: SeekPng.com_dead-grass-png_494957_0
+  - first:
+      213: -4428898793651780740
+    second: SeekPng.com_dead-grass-png_494957_1
+  - first:
+      213: -8161724306594139448
+    second: SeekPng.com_dead-grass-png_494957_2
+  - first:
+      213: 1175282207087520455
+    second: SeekPng.com_dead-grass-png_494957_3
+  - first:
+      213: 8636221667591599407
+    second: SeekPng.com_dead-grass-png_494957_4
+  - first:
+      213: 4195593659984839970
+    second: SeekPng.com_dead-grass-png_494957_5
+  - first:
+      213: 3114400131156286299
+    second: SeekPng.com_dead-grass-png_494957_6
+  - first:
+      213: 4480247889149110934
+    second: SeekPng.com_dead-grass-png_494957_7
+  - first:
+      213: 2254364348300204542
+    second: SeekPng.com_dead-grass-png_494957_8
+  - first:
+      213: -4238911867716417399
+    second: SeekPng.com_dead-grass-png_494957_9
+  - first:
+      213: 8069543726140291566
+    second: SeekPng.com_dead-grass-png_494957_10
+  - first:
+      213: -2527246102242586381
+    second: SeekPng.com_dead-grass-png_494957_11
+  - first:
+      213: -1697629904865390790
+    second: SeekPng.com_dead-grass-png_494957_12
+  - first:
+      213: -2816088940091572288
+    second: SeekPng.com_dead-grass-png_494957_13
+  - first:
+      213: 9050845677704408524
+    second: SeekPng.com_dead-grass-png_494957_14
+  - first:
+      213: -1736191855375114918
+    second: SeekPng.com_dead-grass-png_494957_15
+  - first:
+      213: 2315775808529367251
+    second: SeekPng.com_dead-grass-png_494957_16
+  - first:
+      213: -3786715641756574030
+    second: SeekPng.com_dead-grass-png_494957_17
+  - first:
+      213: 3989851528662931848
+    second: SeekPng.com_dead-grass-png_494957_18
+  - first:
+      213: -5538297209796854104
+    second: SeekPng.com_dead-grass-png_494957_19
+  - first:
+      213: 7831812652820994772
+    second: SeekPng.com_dead-grass-png_494957_20
+  - first:
+      213: -8072130267497349727
+    second: SeekPng.com_dead-grass-png_494957_21
+  - first:
+      213: 3152777688604267194
+    second: SeekPng.com_dead-grass-png_494957_22
+  - first:
+      213: -5937548981082143702
+    second: SeekPng.com_dead-grass-png_494957_23
+  - first:
+      213: -3312725162034727612
+    second: SeekPng.com_dead-grass-png_494957_24
+  - first:
+      213: 3479816287551759783
+    second: SeekPng.com_dead-grass-png_494957_25
+  - first:
+      213: -2266706921512449860
+    second: SeekPng.com_dead-grass-png_494957_26
+  - first:
+      213: -4175813010211939197
+    second: SeekPng.com_dead-grass-png_494957_27
+  - first:
+      213: -6151464141754184596
+    second: SeekPng.com_dead-grass-png_494957_28
+  - first:
+      213: 4939391698287699140
+    second: SeekPng.com_dead-grass-png_494957_29
+  - first:
+      213: -451157224784517277
+    second: SeekPng.com_dead-grass-png_494957_30
+  - first:
+      213: -7144876653182219934
+    second: SeekPng.com_dead-grass-png_494957_31
+  - first:
+      213: 2384456265201512139
+    second: SeekPng.com_dead-grass-png_494957_32
+  - first:
+      213: -2066719879396198189
+    second: SeekPng.com_dead-grass-png_494957_33
+  - first:
+      213: 8039119898882930471
+    second: SeekPng.com_dead-grass-png_494957_34
+  - first:
+      213: 3348220497602650114
+    second: SeekPng.com_dead-grass-png_494957_35
+  - first:
+      213: -2100339712818328641
+    second: SeekPng.com_dead-grass-png_494957_36
+  - first:
+      213: 5713566832838251008
+    second: SeekPng.com_dead-grass-png_494957_37
+  - first:
+      213: -6085994680258738956
+    second: SeekPng.com_dead-grass-png_494957_38
+  - first:
+      213: -7868572098166564659
+    second: SeekPng.com_dead-grass-png_494957_39
+  - first:
+      213: -7848422311860969524
+    second: SeekPng.com_dead-grass-png_494957_40
+  - first:
+      213: -4462637754366144882
+    second: SeekPng.com_dead-grass-png_494957_41
+  - first:
+      213: -4718830895512832132
+    second: SeekPng.com_dead-grass-png_494957_42
+  - first:
+      213: -6520490690176454440
+    second: SeekPng.com_dead-grass-png_494957_43
+  - first:
+      213: -3875000147198280933
+    second: SeekPng.com_dead-grass-png_494957_44
+  - first:
+      213: 7097168751878703644
+    second: SeekPng.com_dead-grass-png_494957_45
+  - first:
+      213: -866135912303634945
+    second: SeekPng.com_dead-grass-png_494957_46
+  - first:
+      213: 7624998319915224888
+    second: SeekPng.com_dead-grass-png_494957_47
+  - first:
+      213: -6584189629919239743
+    second: SeekPng.com_dead-grass-png_494957_48
+  - first:
+      213: -6606955595630487970
+    second: SeekPng.com_dead-grass-png_494957_49
+  - first:
+      213: 220297348773790470
+    second: SeekPng.com_dead-grass-png_494957_50
+  - first:
+      213: -2774446393116427495
+    second: SeekPng.com_dead-grass-png_494957_51
+  - first:
+      213: 5971610616737320129
+    second: SeekPng.com_dead-grass-png_494957_52
+  - first:
+      213: 8117457548791079233
+    second: SeekPng.com_dead-grass-png_494957_53
+  - first:
+      213: 1918881052356539029
+    second: SeekPng.com_dead-grass-png_494957_54
+  - first:
+      213: -3310831328361221946
+    second: SeekPng.com_dead-grass-png_494957_55
+  - first:
+      213: -5762355329596819694
+    second: SeekPng.com_dead-grass-png_494957_56
+  - first:
+      213: -2425635740818168785
+    second: SeekPng.com_dead-grass-png_494957_57
+  - first:
+      213: -2656343472290198413
+    second: SeekPng.com_dead-grass-png_494957_58
+  - first:
+      213: -6633262688277706494
+    second: SeekPng.com_dead-grass-png_494957_59
+  - first:
+      213: -8980620267976514355
+    second: SeekPng.com_dead-grass-png_494957_60
+  - first:
+      213: 4573021172772998574
+    second: SeekPng.com_dead-grass-png_494957_61
+  - first:
+      213: 9149604825292554839
+    second: SeekPng.com_dead-grass-png_494957_62
+  - first:
+      213: 7308277644379619224
+    second: SeekPng.com_dead-grass-png_494957_63
+  - first:
+      213: 1725325627985553202
+    second: SeekPng.com_dead-grass-png_494957_64
+  - first:
+      213: 3332678862780177276
+    second: SeekPng.com_dead-grass-png_494957_65
+  - first:
+      213: -6526119033185371516
+    second: SeekPng.com_dead-grass-png_494957_66
+  - first:
+      213: -3635561160269648156
+    second: SeekPng.com_dead-grass-png_494957_67
+  - first:
+      213: 63793327317626655
+    second: SeekPng.com_dead-grass-png_494957_68
+  - first:
+      213: 3795929729136541381
+    second: SeekPng.com_dead-grass-png_494957_69
+  - first:
+      213: 1238289720152085566
+    second: SeekPng.com_dead-grass-png_494957_70
+  - first:
+      213: -6991902757921789841
+    second: SeekPng.com_dead-grass-png_494957_71
+  - first:
+      213: -7990050517870486685
+    second: SeekPng.com_dead-grass-png_494957_72
+  - first:
+      213: 8633935992220359498
+    second: SeekPng.com_dead-grass-png_494957_73
+  - first:
+      213: -8520688570343603678
+    second: SeekPng.com_dead-grass-png_494957_74
+  - first:
+      213: 2502326063143060623
+    second: SeekPng.com_dead-grass-png_494957_75
+  - first:
+      213: -6801083736574399265
+    second: SeekPng.com_dead-grass-png_494957_76
+  - first:
+      213: -6346870900666076607
+    second: SeekPng.com_dead-grass-png_494957_77
+  - first:
+      213: -793103861620635392
+    second: SeekPng.com_dead-grass-png_494957_78
+  - first:
+      213: 5063111601928176673
+    second: SeekPng.com_dead-grass-png_494957_79
+  - first:
+      213: -4066070079247567005
+    second: SeekPng.com_dead-grass-png_494957_80
+  - first:
+      213: -964012789618964255
+    second: SeekPng.com_dead-grass-png_494957_81
+  - first:
+      213: -7640813500476989250
+    second: SeekPng.com_dead-grass-png_494957_82
+  - first:
+      213: -6492324382989637612
+    second: SeekPng.com_dead-grass-png_494957_83
+  - first:
+      213: 364821839347238931
+    second: SeekPng.com_dead-grass-png_494957_84
+  - first:
+      213: -6973411328531144771
+    second: SeekPng.com_dead-grass-png_494957_85
+  - first:
+      213: -1238523963014882137
+    second: SeekPng.com_dead-grass-png_494957_86
+  - first:
+      213: 4360255584584696872
+    second: SeekPng.com_dead-grass-png_494957_87
+  - first:
+      213: -1600726739251857639
+    second: SeekPng.com_dead-grass-png_494957_88
+  - first:
+      213: -777660821319062097
+    second: SeekPng.com_dead-grass-png_494957_89
+  - first:
+      213: -4781043799408150275
+    second: SeekPng.com_dead-grass-png_494957_90
+  - first:
+      213: -1685781735477740535
+    second: SeekPng.com_dead-grass-png_494957_91
+  - first:
+      213: 2079155402761901827
+    second: SeekPng.com_dead-grass-png_494957_92
+  - first:
+      213: 4236836935149032466
+    second: SeekPng.com_dead-grass-png_494957_93
+  - first:
+      213: -5886483490217519412
+    second: SeekPng.com_dead-grass-png_494957_94
+  - first:
+      213: -7711969634697273610
+    second: SeekPng.com_dead-grass-png_494957_95
+  - first:
+      213: 2538020474544984117
+    second: SeekPng.com_dead-grass-png_494957_96
+  - first:
+      213: 4733451757376268912
+    second: SeekPng.com_dead-grass-png_494957_97
+  - first:
+      213: 3547849005253616635
+    second: SeekPng.com_dead-grass-png_494957_98
+  - first:
+      213: 8793250392128322081
+    second: SeekPng.com_dead-grass-png_494957_99
+  - first:
+      213: 2229065593833637941
+    second: SeekPng.com_dead-grass-png_494957_100
+  - first:
+      213: -4434505160858022398
+    second: SeekPng.com_dead-grass-png_494957_101
+  - first:
+      213: 1192734542638740276
+    second: SeekPng.com_dead-grass-png_494957_102
+  - first:
+      213: -661862222609161375
+    second: SeekPng.com_dead-grass-png_494957_103
+  - first:
+      213: 81651784454370864
+    second: SeekPng.com_dead-grass-png_494957_104
+  - first:
+      213: -6340034988446508575
+    second: SeekPng.com_dead-grass-png_494957_105
+  - first:
+      213: 7419634462948288810
+    second: SeekPng.com_dead-grass-png_494957_106
+  - first:
+      213: 3487061235123981161
+    second: SeekPng.com_dead-grass-png_494957_107
+  - first:
+      213: -3183833612527712398
+    second: SeekPng.com_dead-grass-png_494957_108
+  - first:
+      213: 6643025421036370140
+    second: SeekPng.com_dead-grass-png_494957_109
+  - first:
+      213: 5019536552739230903
+    second: SeekPng.com_dead-grass-png_494957_110
+  - first:
+      213: -1150579091053771610
+    second: SeekPng.com_dead-grass-png_494957_111
+  - first:
+      213: 685561557475076906
+    second: SeekPng.com_dead-grass-png_494957_112
+  - first:
+      213: -4908295569572285797
+    second: SeekPng.com_dead-grass-png_494957_113
+  - first:
+      213: -1289433551454427949
+    second: SeekPng.com_dead-grass-png_494957_114
+  - first:
+      213: 1397724409906016102
+    second: SeekPng.com_dead-grass-png_494957_115
+  - first:
+      213: 8575108704415003643
+    second: SeekPng.com_dead-grass-png_494957_116
+  - first:
+      213: 3147451310751827098
+    second: SeekPng.com_dead-grass-png_494957_117
+  - first:
+      213: 8231079902422451209
+    second: SeekPng.com_dead-grass-png_494957_118
+  - first:
+      213: 2172214451544958967
+    second: SeekPng.com_dead-grass-png_494957_119
+  - first:
+      213: -2575365113266521251
+    second: SeekPng.com_dead-grass-png_494957_120
+  - first:
+      213: -2315585596890584295
+    second: SeekPng.com_dead-grass-png_494957_121
+  - first:
+      213: 9191934753563830985
+    second: SeekPng.com_dead-grass-png_494957_122
+  - first:
+      213: -3887857060128324347
+    second: SeekPng.com_dead-grass-png_494957_123
+  - first:
+      213: -967908124719821601
+    second: SeekPng.com_dead-grass-png_494957_124
+  - first:
+      213: -4921481416734910999
+    second: SeekPng.com_dead-grass-png_494957_125
+  - first:
+      213: -2679994376924826453
+    second: SeekPng.com_dead-grass-png_494957_126
+  - first:
+      213: 4357550584296652943
+    second: SeekPng.com_dead-grass-png_494957_127
+  - first:
+      213: -2281591674710959506
+    second: SeekPng.com_dead-grass-png_494957_128
+  - first:
+      213: -6569986066380286282
+    second: SeekPng.com_dead-grass-png_494957_129
+  - first:
+      213: 639829814274364191
+    second: SeekPng.com_dead-grass-png_494957_130
+  - first:
+      213: -6367242698484517171
+    second: SeekPng.com_dead-grass-png_494957_131
+  - first:
+      213: 1792944163301241152
+    second: SeekPng.com_dead-grass-png_494957_132
+  - first:
+      213: -6980098609912142598
+    second: SeekPng.com_dead-grass-png_494957_133
+  - first:
+      213: 6284778115531377548
+    second: SeekPng.com_dead-grass-png_494957_134
+  - first:
+      213: -6992442133136241840
+    second: SeekPng.com_dead-grass-png_494957_135
+  - first:
+      213: -9144573529005263092
+    second: SeekPng.com_dead-grass-png_494957_136
+  - first:
+      213: 7614900711674097785
+    second: SeekPng.com_dead-grass-png_494957_137
+  - first:
+      213: 563970679553016138
+    second: SeekPng.com_dead-grass-png_494957_138
+  - first:
+      213: -8087458566773007581
+    second: SeekPng.com_dead-grass-png_494957_139
+  - first:
+      213: 8195351370808715327
+    second: SeekPng.com_dead-grass-png_494957_140
+  - first:
+      213: -3461372735206609678
+    second: SeekPng.com_dead-grass-png_494957_141
+  - first:
+      213: -2697216906977223400
+    second: SeekPng.com_dead-grass-png_494957_142
+  - first:
+      213: -8619831635434827174
+    second: SeekPng.com_dead-grass-png_494957_143
+  - first:
+      213: 2069406508527730030
+    second: SeekPng.com_dead-grass-png_494957_144
+  - first:
+      213: 8372670049053423307
+    second: SeekPng.com_dead-grass-png_494957_145
+  - first:
+      213: 1736931042192702950
+    second: SeekPng.com_dead-grass-png_494957_146
+  - first:
+      213: -4401751747333618274
+    second: SeekPng.com_dead-grass-png_494957_147
+  - first:
+      213: 8470047368392638395
+    second: SeekPng.com_dead-grass-png_494957_148
+  - first:
+      213: -7465505310854167941
+    second: SeekPng.com_dead-grass-png_494957_149
+  - first:
+      213: -2764547673719126710
+    second: SeekPng.com_dead-grass-png_494957_150
+  - first:
+      213: 9199340576207489160
+    second: SeekPng.com_dead-grass-png_494957_151
+  - first:
+      213: 5918523590852021782
+    second: SeekPng.com_dead-grass-png_494957_152
+  - first:
+      213: 3537196154048884673
+    second: SeekPng.com_dead-grass-png_494957_153
+  - first:
+      213: -3660920500378542868
+    second: SeekPng.com_dead-grass-png_494957_154
+  - first:
+      213: -3091749796806028011
+    second: SeekPng.com_dead-grass-png_494957_155
+  - first:
+      213: -6171715660121477487
+    second: SeekPng.com_dead-grass-png_494957_156
+  - first:
+      213: 305274065329151745
+    second: SeekPng.com_dead-grass-png_494957_157
+  - first:
+      213: 3041157841670848838
+    second: SeekPng.com_dead-grass-png_494957_158
+  - first:
+      213: -2311784145847387716
+    second: SeekPng.com_dead-grass-png_494957_159
+  - first:
+      213: 3491358183518020915
+    second: SeekPng.com_dead-grass-png_494957_160
+  - first:
+      213: -2250237549279337076
+    second: SeekPng.com_dead-grass-png_494957_161
+  - first:
+      213: 6368101226125436978
+    second: SeekPng.com_dead-grass-png_494957_162
+  - first:
+      213: 5887381543369672030
+    second: SeekPng.com_dead-grass-png_494957_163
+  - first:
+      213: -2143652566511484573
+    second: SeekPng.com_dead-grass-png_494957_164
+  - first:
+      213: -1342198642980915196
+    second: SeekPng.com_dead-grass-png_494957_165
+  - first:
+      213: -4706061858239117031
+    second: SeekPng.com_dead-grass-png_494957_166
+  - first:
+      213: -4488828057249894778
+    second: SeekPng.com_dead-grass-png_494957_167
+  - first:
+      213: -8328348063818023274
+    second: SeekPng.com_dead-grass-png_494957_168
+  - first:
+      213: -1749313140707543937
+    second: SeekPng.com_dead-grass-png_494957_169
+  - first:
+      213: -1905178126069923537
+    second: SeekPng.com_dead-grass-png_494957_170
+  - first:
+      213: 4273038962014007979
+    second: SeekPng.com_dead-grass-png_494957_171
+  - first:
+      213: 6438330508403234821
+    second: SeekPng.com_dead-grass-png_494957_172
+  - first:
+      213: -8445584339984785744
+    second: SeekPng.com_dead-grass-png_494957_173
+  - first:
+      213: -1502093999010052286
+    second: SeekPng.com_dead-grass-png_494957_174
+  - first:
+      213: 983313006048502343
+    second: SeekPng.com_dead-grass-png_494957_175
+  - first:
+      213: 1788143079820992675
+    second: SeekPng.com_dead-grass-png_494957_176
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266a40faf46e6bd80800000000000000
+      internalID: -8235141638687250846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73ca3233046982c0800000000000000
+      internalID: -4428898793651780740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f8ce5cfabbbe80800000000000000
+      internalID: -8161724306594139448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cae940c0f07f4010800000000000000
+      internalID: 1175282207087520455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25345a99d50ad770800000000000000
+      internalID: 8636221667591599407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225074d543eb93a30800000000000000
+      internalID: 4195593659984839970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b10022b62983b20800000000000000
+      internalID: 3114400131156286299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a2d62c7b90d2e30800000000000000
+      internalID: 4480247889149110934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef91dbe3e6c194f10800000000000000
+      internalID: 2254364348300204542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98843927d1c5c25c0800000000000000
+      internalID: -4238911867716417399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9f210c347ccff60800000000000000
+      internalID: 8069543726140291566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f017d75f0b6decd0800000000000000
+      internalID: -2527246102242586381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f0b60989ec078e0800000000000000
+      internalID: -1697629904865390790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf7fed770e3be8d0800000000000000
+      internalID: -2816088940091572288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd6370c0301b9d70800000000000000
+      internalID: 9050845677704408524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d907ec4bec7e7e0800000000000000
+      internalID: -1736191855375114918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d006de04d9432020800000000000000
+      internalID: 2315775808529367251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1fabcf22e27bc0800000000000000
+      internalID: -3786715641756574030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d08083dcce5730800000000000000
+      internalID: 3989851528662931848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae7585e7040423b0800000000000000
+      internalID: -5538297209796854104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da1eceec1030bc60800000000000000
+      internalID: 7831812652820994772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad34292a480aff80800000000000000
+      internalID: -8072130267497349727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2d8098a9ae0cb20800000000000000
+      internalID: 3152777688604267194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24cd1209a6999da0800000000000000
+      internalID: -5937548981082143702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445fb664406d602d0800000000000000
+      internalID: -3312725162034727612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a524270a7aca4030800000000000000
+      internalID: 3479816287551759783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8c45d701a0b80e0800000000000000
+      internalID: -2266706921512449860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cdcdd01388c06c0800000000000000
+      internalID: -4175813010211939197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c403674fb91aaa0800000000000000
+      internalID: -6151464141754184596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4a3fe549e3c8440800000000000000
+      internalID: 4939391698287699140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3672ed6f4ea2db9f0800000000000000
+      internalID: -451157224784517277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 265
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26987130a8c48dc90800000000000000
+      internalID: -7144876653182219934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6acdf65a471120800000000000000
+      internalID: 2384456265201512139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8f95a38398153e0800000000000000
+      internalID: -2066719879396198189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727f0b774f0b09f60800000000000000
+      internalID: 8039119898882930471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200a94d8dc4477e20800000000000000
+      internalID: 3348220497602650114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb41d5c8281ad2e0800000000000000
+      internalID: -2100339712818328641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00217cf33caaa4f40800000000000000
+      internalID: 5713566832838251008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c24255143a8ba0800000000000000
+      internalID: -6085994680258738956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc85b3fbd573dc290800000000000000
+      internalID: -7868572098166564659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd6467d7dc41390800000000000000
+      internalID: -7848422311860969524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e42c14b968112c0800000000000000
+      internalID: -4462637754366144882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77b1dd4d48538eb0800000000000000
+      internalID: -4718830895512832132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d07acaa3409285a0800000000000000
+      internalID: -6520490690176454440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bf8a195eb393ac0800000000000000
+      internalID: -3875000147198280933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a8bbe90653e7260800000000000000
+      internalID: 7097168751878703644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5deeb0afddaf3f0800000000000000
+      internalID: -866135912303634945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f4f7fa29f61d960800000000000000
+      internalID: 7624998319915224888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c16ad68a6240a4a0800000000000000
+      internalID: -6584189629919239743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565aa314e06f44a0800000000000000
+      internalID: -6606955595630487970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6034f928547ae0300800000000000000
+      internalID: 220297348773790470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b7ee184bf2f79d0800000000000000
+      internalID: -2774446393116427495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc449b873c6fd250800000000000000
+      internalID: 5971610616737320129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141610be1a007a070800000000000000
+      internalID: 8117457548791079233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59270f3862c31aa10800000000000000
+      internalID: 1918881052356539029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c07bc9c2709d02d0800000000000000
+      internalID: -3310831328361221946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2177dc5ab500800b0800000000000000
+      internalID: -5762355329596819694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24aa023529665ed0800000000000000
+      internalID: -2425635740818168785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c07b49fa5c22bd0800000000000000
+      internalID: -2656343472290198413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209ca53cabae1f3a0800000000000000
+      internalID: -6633262688277706494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc42698927d6e5380800000000000000
+      internalID: -8980620267976514355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead89791782a67f30800000000000000
+      internalID: 4573021172772998574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75243c6ac1de9fe70800000000000000
+      internalID: 9149604825292554839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 217
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ffc21fbc73c6560800000000000000
+      internalID: 7308277644379619224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e4f9748691f710800000000000000
+      internalID: 1725325627985553202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_65
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b1776b4cd004e20800000000000000
+      internalID: 3332678862780177276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48af111f0519e65a0800000000000000
+      internalID: -6526119033185371516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeabe20364eb8dc0800000000000000
+      internalID: -3635561160269648156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1faec571b3a2e000800000000000000
+      internalID: 63793327317626655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce37891af9dda430800000000000000
+      internalID: 3795929729136541381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34dea290f94f2110800000000000000
+      internalID: 1238289720152085566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f686ff18c75c7fe90800000000000000
+      internalID: -6991902757921789841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b57e81363ad1190800000000000000
+      internalID: -7990050517870486685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b11c55a07e1d770800000000000000
+      internalID: 8633935992220359498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22240fac3ee60c980800000000000000
+      internalID: -8520688570343603678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8408d9eb4c0ab220800000000000000
+      internalID: 2502326063143060623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcebc11062bd91a0800000000000000
+      internalID: -6801083736574399265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142f8820b826be7a0800000000000000
+      internalID: -6346870900666076607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_78
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098c1a6d345ef4f0800000000000000
+      internalID: -793103861620635392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 193
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124861b2d29c34640800000000000000
+      internalID: 5063111601928176673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ba9e4eca6297c0800000000000000
+      internalID: -4066070079247567005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e804d3b9732f92f0800000000000000
+      internalID: -964012789618964255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb06f05aa9066f590800000000000000
+      internalID: -7640813500476989250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ab491f51a6e5a0800000000000000
+      internalID: -6492324382989637612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c89ca78b101500800000000000000
+      internalID: 364821839347238931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf573ae757793f90800000000000000
+      internalID: -6973411328531144771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac50b28401efcee0800000000000000
+      internalID: -1238523963014882137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82485114a5db28c30800000000000000
+      internalID: 4360255584584696872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177c6cf28319c9e0800000000000000
+      internalID: -1600726739251857639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade98d6a913535f0800000000000000
+      internalID: -777660821319062097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df871b8def156adb0800000000000000
+      internalID: -4781043799408150275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cf1087176ea98e0800000000000000
+      internalID: -1685781735477740535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307157ea2d4aadc10800000000000000
+      internalID: 2079155402761901827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21410daaeb44cca30800000000000000
+      internalID: 4236836935149032466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_94
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6126d14720f4ea0800000000000000
+      internalID: -5886483490217519412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe154d1a7499f490800000000000000
+      internalID: -7711969634697273610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5301ce1bc2cd83320800000000000000
+      internalID: 2538020474544984117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a6cdf5b4990b140800000000000000
+      internalID: 4733451757376268912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf36dda7fdd7c3130800000000000000
+      internalID: 3547849005253616635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7fdb94a6e70a70800000000000000
+      internalID: 8793250392128322081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538cf75f85b3fee10800000000000000
+      internalID: 2229065593833637941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ecb6c1d097572c0800000000000000
+      internalID: -4434505160858022398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433f1554fb17d8010800000000000000
+      internalID: 1192734542638740276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1636123b0d790d6f0800000000000000
+      internalID: -661862222609161375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036fda78dd5122100800000000000000
+      internalID: 81651784454370864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_105
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9191ad4cba308a0800000000000000
+      internalID: -6340034988446508575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29674fab36d7f660800000000000000
+      internalID: 7419634462948288810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8995d7b7846030800000000000000
+      internalID: 3487061235123981161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2774655b230c0d3d0800000000000000
+      internalID: -3183833612527712398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_109
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd833c69c64c03c50800000000000000
+      internalID: 6643025421036370140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_110
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b45c1b66e9f8a540800000000000000
+      internalID: 5019536552739230903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_111
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a48fb7a9625800f0800000000000000
+      internalID: -1150579091053771610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b27f0ba9a938900800000000000000
+      internalID: 685561557475076906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_113
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92350b4f2b32ebb0800000000000000
+      internalID: -4908295569572285797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4a61444030b1ee0800000000000000
+      internalID: -1289433551454427949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_115
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f275202f6b56310800000000000000
+      internalID: 1397724409906016102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3340d0fe7e00770800000000000000
+      internalID: 8575108704415003643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94433d8a4efdab20800000000000000
+      internalID: 3147451310751827098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9044fb5af8baa3270800000000000000
+      internalID: 8231079902422451209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_119
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ae48e881452e10800000000000000
+      internalID: 2172214451544958967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb0d80317724cd0800000000000000
+      internalID: -2575365113266521251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_121
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b635a0b236ddfd0800000000000000
+      internalID: -2315585596890584295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_122
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca6db815ff409f70800000000000000
+      internalID: 9191934753563830985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_123
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5058e814a9e8b0ac0800000000000000
+      internalID: -3887857060128324347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc4cd250bc4192f0800000000000000
+      internalID: -967908124719821601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_125
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e554d20ab263bbb0800000000000000
+      internalID: -4921481416734910999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4f95b305fbecad0800000000000000
+      internalID: -2679994376924826453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_127
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 121
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f804ccb4b21297c30800000000000000
+      internalID: 4357550584296652943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a5d52d5782650e0800000000000000
+      internalID: -2281591674710959506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_129
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6132e5b78b2d4a0800000000000000
+      internalID: -6569986066380286282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13178c73d121e800800000000000000
+      internalID: 639829814274364191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_131
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc67126308203a7a0800000000000000
+      internalID: -6367242698484517171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0413ea39731d1e810800000000000000
+      internalID: 1792944163301241152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_133
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af42df2eb45b12f90800000000000000
+      internalID: -6980098609912142598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_134
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b856cd564083750800000000000000
+      internalID: 6284778115531377548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_135
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b80fd6dead5fe90800000000000000
+      internalID: -6992442133136241840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07733d43d2f71180800000000000000
+      internalID: -9144573529005263092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_137
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970343f0adf8da960800000000000000
+      internalID: 7614900711674097785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_138
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414e725850a3d700800000000000000
+      internalID: 563970679553016138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_139
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b1ecf584393cf80800000000000000
+      internalID: -8087458566773007581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f386092a6acbbb170800000000000000
+      internalID: 8195351370808715327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_141
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fca9c226dbb6ffc0800000000000000
+      internalID: -3461372735206609678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_142
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dd179738f819ad0800000000000000
+      internalID: -2697216906977223400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 97
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a529b322cc4306880800000000000000
+      internalID: -8619831635434827174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d3dac514208bc10800000000000000
+      internalID: 2069406508527730030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_145
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6b16f9c03b13470800000000000000
+      internalID: 8372670049053423307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edbe398491da1810800000000000000
+      internalID: 1736931042192702950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9589b67b16d9e2c0800000000000000
+      internalID: -4401751747333618274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf76cf8437ab8570800000000000000
+      internalID: 8470047368392638395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_149
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72ceb54972356890800000000000000
+      internalID: -7465505310854167941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45c657b98a52a9d0800000000000000
+      internalID: -2764547673719126710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8884fac838f9aaf70800000000000000
+      internalID: 9199340576207489160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e018329d1d22250800000000000000
+      internalID: 5918523590852021782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_153
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf26f64925a61130800000000000000
+      internalID: 3537196154048884673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_154
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecddf7833cc13dc0800000000000000
+      internalID: -3660920500378542868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_155
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5159dfac0f5e715d0800000000000000
+      internalID: -3091749796806028011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e6eb76e49a95aa0800000000000000
+      internalID: -6171715660121477487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_157
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f551f152d8c3400800000000000000
+      internalID: 305274065329151745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_158
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 73
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414faab1fc543a20800000000000000
+      internalID: 3041157841670848838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9f2655194eaefd0800000000000000
+      internalID: -2311784145847387716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_160
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ae3815cbc37030800000000000000
+      internalID: 3491358183518020915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85a5f60fdc85c0e0800000000000000
+      internalID: -2250237549279337076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_162
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238afe4535a006850800000000000000
+      internalID: 6368101226125436978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e558dbd225e24b150800000000000000
+      internalID: 5887381543369672030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_164
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3618a3b29573042e0800000000000000
+      internalID: -2143652566511484573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_165
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4087c1b027d8f5de0800000000000000
+      internalID: -1342198642980915196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_166
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91984a87ca5b0beb0800000000000000
+      internalID: -4706061858239117031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_167
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e20dd2aaa74b1c0800000000000000
+      internalID: -4488828057249894778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_168
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e705abf83cb6c80800000000000000
+      internalID: -8328348063818023274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74343f77f039b7e0800000000000000
+      internalID: -1749313140707543937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2102c1a6927f85e0800000000000000
+      internalID: -1905178126069923537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2bf32eb42ec4b30800000000000000
+      internalID: 4273038962014007979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_172
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5085fe35c7b895950800000000000000
+      internalID: 6438330508403234821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beda961ac14bca80800000000000000
+      internalID: -8445584339984785744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_174
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24782c1677d772be0800000000000000
+      internalID: -1502093999010052286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_175
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742ea8c18fd65ad00800000000000000
+      internalID: 983313006048502343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_dead-grass-png_494957_176
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ad4838a2c0d810800000000000000
+      internalID: 1788143079820992675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
