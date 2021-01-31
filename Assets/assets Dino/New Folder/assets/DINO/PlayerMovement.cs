@@ -46,7 +46,7 @@ public class PlayerMovement : MonoBehaviour
             BounceWall(bounce, direction);    
         }
 
-        if (horizontalMovement == 0)
+        if (horizontalMovement < 10)
             isBounced = false;
 
         if(Input.GetButtonDown("Jump") && isGrounded)
@@ -56,8 +56,10 @@ public class PlayerMovement : MonoBehaviour
 
         float open = 0;
 
-        
-        if(!isBounced)
+        float way = 0;
+
+        if(isBounced)
+
             Moveplayer(horizontalMovement);
 
         Flip(rb.velocity.x);
