@@ -30,19 +30,10 @@ public class PlayerMovement : MonoBehaviour
     public Collider2D other;
 
 
-    void OnTriggerEnter2D(Collider2D test)
-    {
-        controller = test.GetComponent<PlayerMovement>();
-
-        if ((test.name == "dino" && !Player1) || (test.name == "dino2"  && Player1))
-        {
-            Debug.Log("Gagné");
-        }
-    }
-
     void OnCollisionEnter(Collision col)
     {
-        if ((col.gameObject.name == "dino") || (col.gameObject.name == "dino2")) {
+        Debug.Log("hey");
+        if ((col.gameObject.tag == "dino") || (col.gameObject.tag == "dino2")) {
             Debug.Log("gagné");            
         }
     }
