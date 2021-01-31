@@ -6,6 +6,12 @@ public class Opening : MonoBehaviour
     public Collider2D door;
     private Animator animator;
 
+    private presureplate pressur;
+    public GameObject pressureplate;
+    public GameObject dooor;
+
+    public bool toopen = false;
+    
     /*void OnTriggerEnter2D(Collider2D other)
     {
         controller = other.GetComponent<PlayerMovement>();
@@ -16,18 +22,26 @@ public class Opening : MonoBehaviour
     }
 */
 
-    private void Awake() {
-        animator = GetComponent<Animator>();
+    void Start()
+    {
+        pressur = pressureplate.GetComponent<presureplate>();
+    }
+
+    void Update()
+    {
+        Debug.Log(pressur.toopen);
+        if (pressur.toopen == true)
+            doorOpen();
+        else
+            doorClose();
     }
 
     public void doorOpen()
     {
-        animator.SetBool("Open", true);
-        gameObject.SetActive(false);
+        dooor.SetActive(false);
     }
     public void doorClose()
     {
-        animator.SetBool("Open", false);
-        gameObject.SetActive(true);
+        dooor.SetActive(true);
     }
 }
